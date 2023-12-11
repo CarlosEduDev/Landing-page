@@ -1,2 +1,7 @@
-# Landing-page
-Um projeto de desafio de landing page da DIO com html e css
+# Projeto de landing page
+
+Eu fiz o projeto de landing page como um desafio proposto pela DIO.
+Eu aprendi e revisei muitas coisas sobre o CSS puro.
+
+## 🚀 Tecnologias
+HTML | CSS
